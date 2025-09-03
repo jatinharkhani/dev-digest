@@ -9,10 +9,10 @@ Welcome to **DevDigest Series 1** — your daily dose of developer trivia, fun f
 
 ## 📅 Series Progress
 
-| Entry | Date       | Title               | Fun Fact                                                         |
-|-------|------------|---------------------|------------------------------------------------------------------|
-| 2     | 2025-09-03 | Python’s Birthday   | Python was released in 1991 by Guido van Rossum in the Netherlands. |
-| 1     | 2025-09-02 | The First Website   | The world’s first website went live at CERN in 1991.             |
+| Title               | Fun Fact                                                         |
+|---------------------|------------------------------------------------------------------|
+| Python’s Birthday   | Python was released in 1991 by Guido van Rossum in the Netherlands. |
+| The First Website   | The world’s first website went live at CERN in 1991.             |
 
 ---
 
