@@ -25,7 +25,7 @@ Did you know that the first computer virus was created in 1971 and was called th
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12168614/268859265-5a2b0e77-4e32-4f13-9e51-0f8b1a6e1e53.png" width="120" alt="Digest Icon" />
-</p>
+</p> 
 
 ---
 
