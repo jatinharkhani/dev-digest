@@ -1,7 +1,7 @@
 ![DevDigest Series Badge](https://img.shields.io/badge/DevDigest-Series%201-blueviolet)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=jatinharkhani.devdigest-series-1)
 
-# 🚀 DevDigest Series 1
+# 🚀 DevDigest Series 2
 
 Welcome to **DevDigest Series 1** — your daily dose of developer trivia, fun facts, and insights!
 
